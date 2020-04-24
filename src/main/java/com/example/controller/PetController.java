@@ -22,7 +22,8 @@ public class PetController {
 		pList.add(new Pet("Marly","Dog"));
 		pList.add(new Pet("Elohssa","Horse"));
 		pList.add(new Pet("Umasou","Dinosaur")); //highly recommend this anime "You are Umasou"
-		
+		pList.add(new Pet("Chips","Cat"));
+
 		System.out.println("getting all pets");
 		return pList;
 	}
